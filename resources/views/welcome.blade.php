@@ -76,6 +76,9 @@
                             <a href="{{ route('register') }}">Register</a>
                         @endif
                     @endauth
+                    <div class="content">
+               
+            </div>
                 </div>
             @endif
 
@@ -83,7 +86,8 @@
                 <div class="title m-b-md">
                     MY NEWS
                 </div>
-
+                
+                
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
@@ -92,6 +96,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+                    
                 </div>
             </div>
         </div>
